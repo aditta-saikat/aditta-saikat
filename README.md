@@ -5,14 +5,10 @@
 <h3 align="center">A passionate software developer from Bangladesh 🇧🇩</h3>
 <br/>
 <div align="center">
-
-  🔭 I’m currently working as Junior Software Engineer at <b>Lab3</b>
-
-  🌱 I’m currently learning <b>Docker, DevOps, Microservice</b>
-
-  💬 Ask me about <b>Node.js, React, MongoDB</b>... or anything <a href="https://github.com/aditta-saikat/aditta-saikat/issues">here</a>
-</div>
-
+  🔭 I’m currently working as Junior Software Engineer at <b>Lab3</b> </br>
+  🌱 I’m currently learning <b>Docker, DevOps, Microservice</b> </br>
+  💬 Ask me about <b>Node.js, React, MongoDB</b>... or anything <a href="https://github.com/aditta-saikat/aditta-saikat/issues">here</a> </br>
+</div> </br> </br>
 <div align="center">
   <a href="mailto:adittasaikat007@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -25,7 +21,6 @@
   </a>
 </div>
 <hr/>
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -44,10 +39,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-
-  <img width="390" src="./profile/stats.svg" alt="readme stats" />
+  <img width="390" src="https://streak-stats.demolab.com?user=aditta-saikat&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats-one-blue-61.vercel.app/api?username=aditta-saikat&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width="325" align="center" src="./profile/top-langs.svg" alt="top langs" />
+  <img width="325" src="https://github-readme-stats-one-blue-61.vercel.app/api/top-langs/?username=aditta-saikat&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/><br/>
 <hr/>
